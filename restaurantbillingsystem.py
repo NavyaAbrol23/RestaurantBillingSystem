@@ -5,7 +5,7 @@ def connect_db():
     return mysql.connector.connect(
         host="localhost",
         user="navya",
-        password="navyasqlconnect",
+        password="*************",
         database="restaurant_db"
     )
 
