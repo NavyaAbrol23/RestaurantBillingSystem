@@ -1,4 +1,4 @@
-# RestaurantBillingSystem
+# Restaurant Billing System
 A simple, interactive command-line-based Restaurant Billing System using Python and MySQL. This system allows restaurant staff to manage the menu, take customer orders, and view order history efficiently.
 <br>
 <p>Prerequisites required:
