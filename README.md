@@ -16,5 +16,7 @@ A simple, interactive command-line-based Restaurant Billing System using Python 
 <br>
   4. View Orders – View the entire order history with date and time.
 <br>
-  5. Exit – Safely exit the application.
+  5. Generate Receipt - Generates overall receipt with the amount.
+<br>
+  6. Exit – Safely exit the application.
 </p>
