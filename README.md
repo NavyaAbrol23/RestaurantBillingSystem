@@ -1,5 +1,5 @@
 # RestaurantBillingSystem
-This project facilitate a restaurant billing system.
+This project facilitates a restaurant billing system.
 <br>
 <p>Prerequisites required:
 <br>
